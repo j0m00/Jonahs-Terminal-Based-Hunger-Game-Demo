@@ -1,2 +1,2 @@
-# Jonahs-Terminal-Based-Hunger-Game-Demo
-Simulation Inlcluding Food, Murder, Baby Eating, and more.
+# HOW TO INSTALL
+Download the latest version and run with python.
